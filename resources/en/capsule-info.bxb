@@ -1,0 +1,13 @@
+capsule-info {
+  display-name (VUX World)
+  dispatch-name (VUX World)
+  developer-name (Jamie Dawson)
+  icon-asset (icon.png)
+  description (Learn how to implement voice first strategy and create world-class voice experiences with the VUX World podcast. All content is sourced from vux.world.  Sources: https://feed.pippa.io/public/shows/vux-world )
+  terms-url ()
+  search-keywords {
+    keyword (voice)
+    keyword (programming)
+    keyword (development)
+  }
+}
